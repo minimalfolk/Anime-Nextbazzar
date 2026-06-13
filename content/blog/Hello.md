@@ -1,2 +1,6 @@
-Hello how are you? 
-I'm good,how are you btw? 
+---
+title: "Hello World"
+date: "2026-06-13"
+---
+
+This is my first PagesCMS post.
